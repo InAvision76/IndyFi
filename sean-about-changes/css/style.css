@@ -1,0 +1,27 @@
+/* Amir Khan */
+
+* .box{
+	display: inline-block;
+}
+
+.column {
+	float: left;
+	width: 100%;
+	padding: 5px;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+

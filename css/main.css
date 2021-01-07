@@ -114,7 +114,7 @@ html {
 
 /* about page */
 .promo {
-  background-image: url('/img/anime/Promo\ Page.jpg');
+  background-image: url('../img/anime/flareimage_1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
