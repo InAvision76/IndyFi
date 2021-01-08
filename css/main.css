@@ -107,15 +107,14 @@ html {
   font-weight: bold;
 }
 
-.img-description {
-  /* font-size: 1.25em; */
-  /* margin-top: 0.25em; */
-}
-
 /* about page */
 .promo {
   background-image: url('../img/anime/flareimage_1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+}
+
+.promo .offset-2 {
+  margin-top: 250px;
 }
